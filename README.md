@@ -1,2 +1,2 @@
 # ATM![B
-Class Diagram - (https://user-images.githubusercontent.com/59726635/224711274-767c05e9-8e0d-41ce-9818-b2e619bb9fd6.png)
+Class Diagram - ![BANK (2)](https://user-images.githubusercontent.com/59726635/226294357-f4830a2c-95a5-4f01-8b6f-8e9d93864f81.png)
